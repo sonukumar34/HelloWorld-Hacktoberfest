@@ -42,6 +42,7 @@ const HomePage: React.FC = () => {
           <IonCardContent>
             <p>
               Hi, I'm Nefaden and I'm making this Hello World with ionic's framework to show how it looks with a basic template ! :)
+              Hope you'll enjoy it !
             </p>
           </IonCardContent>
         </IonCard>
