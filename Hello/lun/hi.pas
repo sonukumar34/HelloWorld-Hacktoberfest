@@ -1,0 +1,1 @@
+writeln('Hello World, I'm pascal')
