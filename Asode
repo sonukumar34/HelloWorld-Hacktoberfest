@@ -1,6 +1,0 @@
-#!/usr/bin/python # shebang
-
-# This program given string capital alphabet , change to small alphabet
-
-string = str(input("Enter your string for change to small alphabet: "))
-print(f"{string.lower()}")
