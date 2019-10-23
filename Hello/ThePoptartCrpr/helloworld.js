@@ -1,5 +1,3 @@
-const moment = require('moment');
+const date = new Date();
 
-exports.run = () => {
-  console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] Hello World!`);
-}
+console.log(`${date.toLocaleDateString()} @ ${date.toLocaleTimeString()} | Hello World!`);
