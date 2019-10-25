@@ -1,5 +1,2 @@
-const sayHello = _ => {
-	console.log("Hello World");
-}
-
+const sayHello = _ => console.log("Hello World");
 sayHello();
