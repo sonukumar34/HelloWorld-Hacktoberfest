@@ -7,4 +7,4 @@ str = str + ", World!\n"
 
 print(str)
 
-print("Now we are good.");
+print("Now we are good.")
