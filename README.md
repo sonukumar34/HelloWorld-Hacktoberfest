@@ -1,7 +1,11 @@
+<h1 align="center"> Hi There 👋 </h1>
+
 If you are looking for a t-shirt you can send Pull Request to this repository
 
 ## HelloWorld-Hacktoberfest
 Say Hello to the world in whatever language you like
+
+![og-hf-teaser](https://user-images.githubusercontent.com/9213496/90538622-0bf16400-e194-11ea-8f4d-774fef43af3f.png)
 
 
 ## What is Hacktoberfest?
