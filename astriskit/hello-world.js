@@ -1,1 +1,6 @@
-console.log("Hello World"); // prints "Hello World" to the console
+const main = () => {
+  console.log("Hello World"); // prints "Hello World" to the console
+}
+
+main();
+
