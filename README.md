@@ -1,5 +1,8 @@
 <h1 align="center"> Hi There 👋 </h1>
 
+# According to this [issue](https://github.com/ghost1372/HelloWorld-Hacktoberfest/issues/266) Pull Requests will not be counted until further notice. Therefore, this project will be archived until it matches the [Hacktoberfest values](https://hacktoberfest.digitalocean.com/details)
+
+# 
 If you are looking for a t-shirt you can send Pull Request to this repository
 
 ## HelloWorld-Hacktoberfest
